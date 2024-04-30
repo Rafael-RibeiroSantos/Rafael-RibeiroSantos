@@ -1,3 +1,7 @@
+### Sou um jovem autodidata que busca aprender e aperfeiçoar seu conhecimento e habilidades técnicas acerca do universo da programação.
+
+<br>
+
 <div>
   <a href="https://github.com/Rafael-RibeiroSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-RibeiroSantos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
